@@ -1,0 +1,1 @@
+# Django FullStack App
